@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessObjectSchema",
+    "\\SmartVault.CodeGeneration",
+    "\\SmartVault.CodeGeneration\\Properties",
+    "\\SmartVault.DataGeneration",
+    "\\SmartVault.Program",
+    "\\SmartVault.Program\\BusinessObjects",
+    "\\SmartVault.Tests"
+  ],
+  "SelectedNode": "\\SmartVault.Program\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
